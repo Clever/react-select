@@ -1,5 +1,9 @@
 # React-Select
 
+## 1.3.1 / 2020-01-23
+
+* yeah
+
 ## v1.3.0 / 2018-06-23
 * [#2777](https://github.com/JedWatson/react-select/pull/2777) pass entire event to `shouldKeyDownEventCreateNewOption`
 * Fix to [#2764](https://github.com/JedWatson/react-select/issues/2764) [#2775](https://github.com/JedWatson/react-select/pull/2775) fix html compliance
